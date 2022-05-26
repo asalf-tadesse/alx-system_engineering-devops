@@ -1,2 +1,2 @@
 #!/bin/bash
-udo chmod -R oug+X ./ ..
+sudo chmod -R oug+X ./ ..
