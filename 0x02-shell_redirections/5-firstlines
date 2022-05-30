@@ -1,0 +1,2 @@
+#!/bin/bahs
+sudo head -10 /etc/passwd
