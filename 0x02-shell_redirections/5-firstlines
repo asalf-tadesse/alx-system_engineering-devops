@@ -1,2 +1,2 @@
 #!/bin/bahs
-sudo head -10 /etc/passwd
+head +10 /etc/passwd | cat -n
